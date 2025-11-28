@@ -1,4 +1,4 @@
-# desafioPalindromo
+# Desafio Palindromo
 
 Uma página simples para testar verificação de palíndromos — ideal para validar lógicas de string ou algoritmos que identificam palíndromos.
 
